@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack AI",
+  "description": "A sophisticated monthly finance tracker with AI-powered insights, real-time visualizations, and local data persistence.",
+  "requestFramePermissions": []
+}
